@@ -18,7 +18,7 @@ body {
 }
 section {
   width: 80%;
-  margin: 0px 10% auto;
+  margin-left: 10%;
 }
 .half-width {
   width: 50%;
@@ -103,14 +103,18 @@ p {
   float: left;
 }
 .color-area {
-  margin: 10% 10%;
+  margin-top: 10%;
+  margin-bottom: 8%;
+  margin-left: 19%;
   float: left;
-  width: 100%;
+  width: 90%;
   background-image: url("images/banner.png");
+  background-size: 65%;
   background-repeat: no-repeat;
-  padding: 20px 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
   text-align: center;
-  background-size: 70%;
   height: 300px;
 }
 .working-part {
@@ -142,12 +146,14 @@ p {
 }
 .icons {
   width: 50%;
-  margin: 0px auto;
-  padding: 2% 35%;
+  margin: auto;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 19%;
 }
 .icons img {
   width: 8%;
-  margin: 0px 5% auto;
+  margin-left: 9%;
 }
 .skills-area {
   margin-top: 25px;
