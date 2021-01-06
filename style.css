@@ -99,3 +99,53 @@ p {
   float: right;
   margin-bottom: 40px;
 }
+.inquiry-area {
+  float: left;
+}
+.color-area {
+  margin: 10% 10%;
+  float: left;
+  width: 100%;
+  background-image: url("images/banner.png");
+  background-repeat: no-repeat;
+  padding: 20px 30px;
+  text-align: center;
+  background-size: 70%;
+  height: 300px;
+}
+.working-part {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+  float: left;
+  width: 45%;
+}
+.button-part {
+  padding-top: 50px;
+  float: left;
+  text-align: left;
+  width: 50%;
+}
+.contact-area h3 {
+  color: rgb(90, 92, 118);
+  font-size: 25px;
+  text-align: center;
+}
+#mail-link {
+  margin: 0px 32%;
+  text-decoration: none;
+  color: rgb(54, 57, 88);
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+.icons {
+  width: 50%;
+  margin: 0px auto;
+  padding: 2% 35%;
+}
+.icons img {
+  width: 8%;
+  margin: 0px 5% auto;
+}
