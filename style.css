@@ -156,6 +156,9 @@ p {
   padding-top: 50px;
   width: 60%;
 }
+.skills-area h1 {
+  padding-top: 30px;
+}
 .skills-area h3 {
   font-size: 25px;
 }
