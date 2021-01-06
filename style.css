@@ -149,3 +149,16 @@ p {
   width: 8%;
   margin: 0px 5% auto;
 }
+.skills-area {
+  margin-top: 25px;
+}
+.skills-area img {
+  padding-top: 50px;
+  width: 60%;
+}
+.skills-area h3 {
+  font-size: 25px;
+}
+.skills-area p {
+  font-size: 20px;
+}
