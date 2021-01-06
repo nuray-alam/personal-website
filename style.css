@@ -8,13 +8,13 @@ body {
   text-align: right;
   float: right;
   padding-left: 30px;
-  padding-top: 30px;
   color: black;
   font-weight: 530;
   font-size: 25px;
 }
 .nav-bar {
   float: left;
+  margin-bottom: 5%;
 }
 section {
   width: 80%;
